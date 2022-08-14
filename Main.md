@@ -8,12 +8,12 @@ Link to POWER BI: https://app.powerbi.com/links/WThBKW0xBP?ctid=6c425ff2-6865-42
 
 
 The visual below shows the proportion of each product in each destination:
-![image](https://user-images.githubusercontent.com/110726644/184404710-c278acc6-4c80-411b-91f4-b43de41bd549.png)
+![image](https://user-images.githubusercontent.com/110726644/184531662-e1c490b8-66f2-4625-abf9-85d90609f7c4.png)
 Findings: Singapore has the most number of insureds while cancellation plan is the product with the most number of insureds.
 
 
 The visual below shows the proportion of each product in each destination with some addition tooltips including total commission, total net sales, percentage of Yes claim and average ratio of commission to net sales for each product:
-![image](https://user-images.githubusercontent.com/110726644/184406768-a21624ef-9f88-46f1-b2ec-4220d29b7de6.png)
+![image](https://user-images.githubusercontent.com/110726644/184531681-e130e17b-6048-4338-a1a2-252d0878dd0f.png)
 
 The visual below shows the average net sales of each destination:
 ![image](https://user-images.githubusercontent.com/110726644/184404806-e364d722-2b1a-443b-a99e-e4e38cfbbe3e.png)

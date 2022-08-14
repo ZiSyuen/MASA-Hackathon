@@ -8,44 +8,20 @@ Link to POWER BI: https://app.powerbi.com/links/WThBKW0xBP?ctid=6c425ff2-6865-42
 
 
 The visual below shows the proportion of each product in each destination:
-Findings: Singapore has the most number of insureds while cancellation plan is the product with the most number of insureds.
 ![image](https://user-images.githubusercontent.com/110726644/184531662-e1c490b8-66f2-4625-abf9-85d90609f7c4.png)
-
-
-
-The visual below shows the average net sales of each destination:
-Findings: Turks and Caicos Islands is the destination with the highest average net sales.
-![image](https://user-images.githubusercontent.com/110726644/184531761-0de0463d-9b0f-4d91-ab54-c5388ab8293c.png)
+Findings: Singapore has the most number of insureds while cancellation plan is the product with the most number of insureds.
 
 
 
 The visual below shows the density of insureds for each duration:
-Findings: The duration group 0-10 has the highest desity and shows a decreasing pattern from 0-300.
 ![image](https://user-images.githubusercontent.com/110726644/184404905-e0316452-ac62-4307-b11d-2a5efeb3b799.png)
-
-
-
-The visual below shows the average net sales of each duration with the outliers >800 filtered:
-Findings: There seems to be a weak positive correlation between duration and average net sales.
-![image](https://user-images.githubusercontent.com/110726644/184531972-72c4208e-9045-4e8e-a470-d7d69858142c.png)
+Findings: The duration group 0-10 has the highest density and shows a decreasing pattern from 0-300. It also shows that the duration is positively skew.
 
 
 
 The visual below show the density of insureds for each age:
-Findings: The age are positively skew with possible outliers.
+Findings: The age are positively skew with possible outliers. It also shows that the age group 35-39 have the highest density.
 ![image](https://user-images.githubusercontent.com/110726644/184405006-c92db912-ae7c-429a-8592-2dff89f6db5b.png)
-
-
-
-The visual below shows the average net sales of each age:
-Findings: There seems to be no correlation between age and the average net sales.
-![image](https://user-images.githubusercontent.com/110726644/184532273-ab2eb80e-1f84-4c96-b745-3f03eff1f972.png)
-
-
-
-The visual below shows the number of insureds of each agency type for each product:
-Findings: The cancellation plan which consist only travel agency has the most number of insureds, followed by the 2 way comprehensive plan.
-![image](https://user-images.githubusercontent.com/110726644/184532376-fb20fafa-2816-4178-91e9-6236a20c2fb8.png)
 
 
 

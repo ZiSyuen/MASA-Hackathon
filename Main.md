@@ -20,17 +20,17 @@ Findings: The duration group 0-10 has the highest density and shows a decreasing
 
 
 The visual below show the density of insureds for each age:
-Findings: The age are positively skew with possible outliers. It also shows that the age group 35-39 have the highest density.
 ![image](https://user-images.githubusercontent.com/110726644/184405006-c92db912-ae7c-429a-8592-2dff89f6db5b.png)
+Findings: The age are positively skew with possible outliers. It also shows that the age group 35-39 have the highest density.
 
 
 
 The first visual belows shows the average net sales of each agency type for each agency while the second visual below shows the average net sales of each distribution channel for each agency:
-Findings: Agency LWC has the highest average net sales while agency SSI has the lowest.
 ![image](https://user-images.githubusercontent.com/110726644/184532513-2e41755d-8d5d-433e-8a93-0c431c771e71.png)
+Findings: Agency LWC has the highest average net sales while agency SSI has the lowest.
 
 
 
 The visual below shows the average net sales of each product:
-Findings: The annual gold plan has the highest average net sales followed by the annual travel protect platinium, while the travel cruise protect family has the lowest average net sales.
 ![image](https://user-images.githubusercontent.com/110726644/184532597-2c3645fb-3b36-4fae-8000-ad3bed75e621.png)
+Findings: The annual gold plan has the highest average net sales followed by the annual travel protect platinium, while the travel cruise protect family has the lowest average net sales.

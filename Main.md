@@ -2,10 +2,6 @@
 ## Sprint 2: Exploratory Data Analysisnusing MS Power BI
 Link to POWER BI: https://app.powerbi.com/links/WThBKW0xBP?ctid=6c425ff2-6865-42df-a4db-8e6af634813d&pbi_source=linkShare
 
-### Visualise the Data
-### Data Distribution and Density Plots
-### Correlation Analysis
-
 
 The visual below shows the proportion of each product in each destination:
 ![image](https://user-images.githubusercontent.com/110726644/184531662-e1c490b8-66f2-4625-abf9-85d90609f7c4.png)
